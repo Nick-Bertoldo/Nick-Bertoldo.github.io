@@ -32,26 +32,26 @@ author:
   email            : "nicolas.bertoldo@polimi.it" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=pmrKbjoAAAAJ&hl=it"
-  impactstory      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5195-5534"
   researchgate     : "https://www.researchgate.net/profile/Nicolas-Bertoldo"
-  scopus           : # URL
+  #scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
+  github           : "Nick-Bertoldo"
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "be-nick" # Replace this with you Bluesky username
   goodreads        : # Username
   instagram        : # Username
-  linkedin         : # Username
+  linkedin         : "nicolas-bertoldo"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
