@@ -9,14 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Sustainability in Public Procurement, Politecnico di Milano, Milan, Italy. 2022-ongoing
-* M.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2020-2022
-* B.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2017-2019
 
 Work experience
 ======
+* PhD in Sustainability in Public Procurement, Politecnico di Milano, Milan, Italy. 2022-ongoing
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -31,7 +27,13 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+Education
+======
+* M.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2020-2022
+* B.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2017-2019
+* B.S. in Telecommunication Engineering, Politecnico di Milano, Milan, Italy. 2013-2017
+
 Skills
 ======
 * Skill 1
