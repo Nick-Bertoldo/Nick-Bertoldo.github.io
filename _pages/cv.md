@@ -12,21 +12,14 @@ redirect_from:
 
 Work experience
 ======
-* PhD in Sustainability in Public Procurement, Politecnico di Milano, Milan, Italy. 2022-ongoing
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2022-ongoing: PhD in Sustainability in Public Procurement, Politecnico di Milano, Milan, Italy.
+  * Development of a Life cycle thinking-based methodology to be used in Sustainable Public Procurements.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2024 - February 2025: Visiting PhD, Aalborg university, Aalborg, Denmark.
+  * Circular public procurement
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - August 2022: Environmental consultant, EY S.p.A., Climate Change & Sustainability Services, Milan, Italy
+  * Greenhouse Gases inventories, Sustainability reporting (GRI), CDP questionnaire (Climate change and water security).
 
 Education
 ======
@@ -36,12 +29,11 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital skill
+  * Brightway LCA framework | Python | Django | Microsoft Office | OpenLCA | SimaPro | R, R Studio | Matlab |  GAMS | GIMP | Qgis | LaTeX
+* Language skills
+  * Italian - Mothertongue
+  * English - I'm used to talk, write and read in english during my everyday work.
 
 Publications
 ======
@@ -61,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
