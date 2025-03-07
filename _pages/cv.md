@@ -9,37 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2022-ongoing: PhD in Sustainability in Public Procurement, Politecnico di Milano, Milan, Italy.
+  * Development of a Life cycle thinking-based methodology to be used in Sustainable Public Procurements.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2024 - February 2025: Visiting PhD, Aalborg university, Aalborg, Denmark.
+  * Circular public procurement
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* May 2022 - August 2022: Environmental consultant, EY S.p.A., Climate Change & Sustainability Services, Milan, Italy
+  * Greenhouse Gases inventories, Sustainability reporting (GRI), CDP questionnaire (Climate change and water security).
+
+Education
+======
+* M.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2020-2022
+* B.S. in Environmental and Land Planning Engineering, Politecnico di Milano, Milan, Italy. 2017-2019
+* B.S. in Telecommunication Engineering, Politecnico di Milano, Milan, Italy. 2013-2017
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital skill
+  * Brightway LCA framework | Python | Django | Microsoft Office | OpenLCA | SimaPro | R, R Studio | Matlab |  GAMS | GIMP | Qgis | LaTeX
+* Language skills
+  * Italian - Mothertongue
+  * English - I'm used to talk, write and read in english during my everyday work.
 
 Publications
 ======
@@ -59,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
