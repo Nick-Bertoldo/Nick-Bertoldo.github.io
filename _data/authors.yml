@@ -3,16 +3,16 @@
 Name Name:
   name        : "Nicolas Bertoldo"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  email       : "nicolas.bertoldo@polimi.it"
+  bio         : "PhD fellow on Sustainability in Public Procurement - LCA practitioner"
+  avatar      : "profile.png"
+  github      : "Nick-Bertoldo"
+  linkedin    : "nicolas-bertoldo"
+  orcid       : "https://orcid.org/0000-0001-5195-5534"
+  researchgate: "https://www.researchgate.net/profile/Nicolas-Bertoldo"
+  googlescholar: "https://scholar.google.com/citations?user=pmrKbjoAAAAJ&hl=it"
+  employer    : "Politecnico di Milano
+  location    : "Milan, Italy"
+  pronouns    : "he/him"
+  # Social media
+  bluesky     : "be-nick" # Replace this with you Bluesky username  
