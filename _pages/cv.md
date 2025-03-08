@@ -30,7 +30,7 @@ Education
 Skills
 ======
 * Digital skill
-  * Brightway LCA framework | Python | Django | Microsoft Office | OpenLCA | SimaPro | R, R Studio | Matlab |  GAMS | GIMP | Qgis | LaTeX
+  * Brightway LCA framework - Python - Django - Microsoft Office - OpenLCA - SimaPro - R, R Studio - Matlab -  GAMS - GIMP - Qgis - LaTeX
 * Language skills
   * Italian - Mothertongue
   * English - I'm used to talk, write and read in english during my everyday work.
