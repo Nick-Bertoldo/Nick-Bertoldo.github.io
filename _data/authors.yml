@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Nicolas Bertoldo"
-  # uri         : "http://name.com"
+  uri         : "http://name.com"
   email       : "nicolas.bertoldo@polimi.it"
   bio         : "PhD fellow on Sustainability in Public Procurement - LCA practitioner"
   avatar      : "profile.png"
