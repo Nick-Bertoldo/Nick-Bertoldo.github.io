@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Nicolas Bertoldo"
-  uri         : "http://name.com"
+  # uri         : "http://name.com"
   email       : "nicolas.bertoldo@polimi.it"
   bio         : "PhD fellow on Sustainability in Public Procurement - LCA practitioner"
   avatar      : "profile.png"
@@ -11,7 +11,7 @@ Name Name:
   orcid       : "https://orcid.org/0000-0001-5195-5534"
   researchgate: "https://www.researchgate.net/profile/Nicolas-Bertoldo"
   googlescholar: "https://scholar.google.com/citations?user=pmrKbjoAAAAJ&hl=it"
-  employer    : "Politecnico di Milano
+  employer    : "Politecnico di Milano"
   location    : "Milan, Italy"
   pronouns    : "he/him"
   # Social media
