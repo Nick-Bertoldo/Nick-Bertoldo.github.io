@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Integrating Aspen Plus Simulations with Brightway 2.5 for Sustainable Process Design<br />4th Life Cycle Innovation Conference (LCIC); Berlin, Germany",
+    52.510885,
+    13.3989367
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "The potential environmental benefit of the ecodesign approach: a case study in the footwear industry<br />XVI conference of the Associazione Rete Italiana LCA; Milan, Italy",
+    45.4641943,
+    9.1896346
   ]
 ];
