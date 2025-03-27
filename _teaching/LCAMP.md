@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Life Cycle Assessment of Materials and Processes - Practical lecture"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Master course"
+permalink: /teaching/LCAMP
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2023-02-01 -current
+location: "Politecnico di Milano, Milan, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
