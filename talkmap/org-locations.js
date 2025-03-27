@@ -5,7 +5,7 @@ var addressPoints = [
     13.3989367
   ],
   [
-    "Life Cycle Assessment of Green Waste Management: Optimizing Composting Facility Distribution in the Milan Metropolitan Area<br />XIX conference of the Associazione Rete Italiana LCA; Cortina d'Ampezzo",
+    "Life Cycle Assessment of Green Waste Management: Optimizing Composting Facility Distribution in the Milan Metropolitan Area<br />XIX conference of the Associazione Rete Italiana LCA; Cortina d'Ampezzo, Italy",
     46.5383332,
     12.1373506
   ],
