@@ -9,7 +9,7 @@ var $nav = $('#site-nav');
 var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
-
+var $vlinks_persist_tail = $vlinks.children("*.persist.tail")
 var breaks = [];
 
 function updateNav() {
@@ -19,13 +19,13 @@ function updateNav() {
   // The visible list is overflowing the nav
   if($vlinks.width() > availableSpace) {
 
-    while ($vlinks.width() > availableSpace && $vlinks.children('*:not(.masthead__menu-item--lg)').length > 0) {
+    while ($vlinks.width() > availableSpace && $vlinks.children("*:not(.persist)").length > 0) {
 
       // Record the width of the list
       breaks.push($vlinks.width());
 
       // Move item to the hidden list
-      $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
+      $vlinks.children("*:not(.persist)").last().prependTo($hlinks);
 
       availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
       
@@ -41,7 +41,11 @@ function updateNav() {
     // There is space for another item in the nav
     while(breaks.length > 0 && availableSpace > breaks[breaks.length-1]) {
       // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
+      if ($vlinks_persist_tail.children().length > 0) {
+        $hlinks.children().first().insertBefore($vlinks_persist_tail);
+      } else {
+        $hlinks.children().first().appendTo($vlinks);
+      }
       breaks.pop();
     }
 
