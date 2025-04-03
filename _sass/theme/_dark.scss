@@ -32,7 +32,8 @@ $sidebar-screen-min-width   : 1024px;
 /* Default light theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$gray};
-    --global-bg-color                   : #{$bg};
+    --global-bg-color                   : #{$bg};    
+    --global-border-color               : #{$lighter-gray};
     --global-code-text-color            : #{$lighter-gray};
     --global-fig-caption-color          : mix(#000,  #{$light-gray}, 25%);
     --global-link-color                 : #{$green};
