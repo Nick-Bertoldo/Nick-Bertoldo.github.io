@@ -40,8 +40,8 @@ html[data-theme="dark"] {
     --global-link-color                 : #{$green};
     --global-link-color-hover           : mix(#000, #{$green}, 25%);
     --global-link-color-visited         : mix(#fff, #{$green}, 25%);  
-    --global-masthead-link-color        : #{$gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-masthead-link-color        : #{$green};
+    --global-masthead-link-color-hover  : mix(#000, #{$green}, 25%);    
     --global-text-color                 : #{$gray};
     --global-text-color-light           : #{$gray};
     --global-thead-color                : #{$gray};
