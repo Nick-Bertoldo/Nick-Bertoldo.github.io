@@ -31,7 +31,7 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$gray};
+    --global-base-color                 : #{$geen};
     --global-bg-color                   : #{$bg};
     --global-border-color               : #{$gray};
     --global-code-background-color      : mix(#000, #{bg},15%);
