@@ -87,8 +87,15 @@ body,html {
     font-size:30px;
     width:60%;
     text-align:left;
-    padding:2% 10%;
+    padding:2% 8%;
 }
+#tagline a {
+    color:#EBE6E6;
+}
+#tagline a:hover {
+    color:#BA6262;
+}
+
 #portfolio {
     width:80%;
     padding:2% 10%;
