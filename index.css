@@ -219,7 +219,7 @@ body,html {
     background:#EBE6E6;
     cursor:pointer;
 }
-.btn_social i {
+.btn_social svg {
     display: inline-block;
 }
 @media (max-width: 900px){
