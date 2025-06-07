@@ -239,22 +239,27 @@ body,html {
 }
 
 /* Mobile Phone Styles */
-/* @media screen and (max-width: 480px) {
-    #title {
+@media screen and (max-width: 480px) {
+    /* #title {
         font-size: 1.3rem;
+    } */
+    #links {
+        margin:5px 0px;
+        width:100%;
+        gap: 5px;
     }
     
-    #tagline {
+    /* #tagline {
         padding: 15px;
         font-size: 0.95rem;
-    }
+    } */
     
-    #research, #publication, #contact {
+    /* #research, #publication, #contact {
         margin: 15px 5px;
         padding: 20px 15px;
-    }
+    } */
     
-    .btn_one, .btn_two {
+    /* .btn_one, .btn_two {
         display: block;
         width: 100%;
         margin: 5px 0;
@@ -266,8 +271,8 @@ body,html {
         height: 40px;
         line-height: 40px;
         margin: 0 5px;
-    }
-} */
+    } */
+}
 
 @media (max-width: 900px){
     #header {
