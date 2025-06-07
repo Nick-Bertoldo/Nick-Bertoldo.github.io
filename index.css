@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body,html {
     padding:0px;
     margin:0px;
@@ -58,6 +64,10 @@ body,html {
     margin:40px 0px;
     transition:0.6s ease-in-out;
     color:#EBE6E6;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 #links a {
     margin:0px 30px;
@@ -99,6 +109,9 @@ body,html {
 #portfolio {
     width:80%;
     padding:2% 10%;
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 40px 30px;
 }
 #portfolio div h1 {
     font-size:40px;
@@ -222,6 +235,74 @@ body,html {
 .btn_social i{
     display: inline-block;
 }
+
+@media screen and (max-width: 768px) {
+    #title {
+        font-size: 1.5rem;
+    }
+    
+    #links {
+        flex-direction: column;
+        gap: 5px;
+    }
+    
+    #links a {
+        padding: 10px;
+        font-size: 1rem;
+    }
+    
+    #middle {
+        padding: 20px 15px;
+    }
+    
+    #tagline {
+        padding: 20px;
+        font-size: 1rem;
+    }
+    
+    #research, #publication, #contact {
+        margin: 20px 10px;
+        padding: 25px 20px;
+    }
+    
+    .btn_one, .btn_two {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+        margin: 8px 3px;
+    }
+}
+
+/* Mobile Phone Styles */
+@media screen and (max-width: 480px) {
+    #title {
+        font-size: 1.3rem;
+    }
+    
+    #tagline {
+        padding: 15px;
+        font-size: 0.95rem;
+    }
+    
+    #research, #publication, #contact {
+        margin: 15px 5px;
+        padding: 20px 15px;
+    }
+    
+    .btn_one, .btn_two {
+        display: block;
+        width: 100%;
+        margin: 5px 0;
+        padding: 8px 16px;
+    }
+    
+    .btn_social {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        margin: 0 5px;
+    }
+}
+
 @media (max-width: 900px){
     #header {
         width:94%;
@@ -241,10 +322,17 @@ body,html {
         border-radius:0px;
         height:80vh;
         background-size:cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
     }
     #tagline {
         width:90%;
         font-size:30px;
+        max-width: 800px;
+        padding: 30px;
+        border-radius: 15px;
     }
     .btn_one {
         font-size:14px;
