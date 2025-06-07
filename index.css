@@ -49,7 +49,7 @@ body,html {
 }
 #title {
     font-size:40px;
-    background-image: linear-gradient(to left, #BA6262 0%, #ba7878 100%);
+    background-image: linear-gradient(to left, #BA6262 0%, #d03c3c 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -67,7 +67,7 @@ body,html {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 7px;
 }
 #links a {
     margin:0px 30px;
@@ -115,7 +115,7 @@ body,html {
 }
 #portfolio div h1 {
     font-size:40px;
-    background-image: linear-gradient(to left, #BA6262 0%, #ba7878 100%);
+    background-image: linear-gradient(to left, #BA6262 0%, #d03c3c 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -237,7 +237,7 @@ body,html {
 }
 
 /* Mobile Phone Styles */
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     #title {
         font-size: 1.3rem;
     }
@@ -265,7 +265,7 @@ body,html {
         line-height: 40px;
         margin: 0 5px;
     }
-}
+} */
 
 @media (max-width: 900px){
     #header {
