@@ -140,7 +140,12 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
-#contact form {
+
+#contact h2 {
+    padding: 2% 10%;
+}
+
+/* #contact form {
     width:100%;
 }
 #contact form input {
@@ -176,7 +181,7 @@ body,html {
 #contact form textarea:focus {
     outline:none;
     border-bottom:2px solid #EBE6E6;
-}
+} */
 ::placeholder {
     color:#EBE6E6;
 }
