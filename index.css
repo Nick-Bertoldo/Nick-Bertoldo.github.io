@@ -145,6 +145,27 @@ body,html {
     padding:10px 40px;
 }
 
+#contact table {
+    width:100%;
+}
+#contact table tr td {
+    width:50%;
+    font-weight:bold;
+    padding:10px 20px !important;
+}
+
+#address {
+    position:relative;
+    top:-25px;
+    left:30px;
+}
+
+#affiliation {
+    position:relative;
+    top:-25px;
+    left:30px;
+}
+
 /* #contact form {
     width:100%;
 }
