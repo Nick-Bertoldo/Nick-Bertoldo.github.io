@@ -108,6 +108,13 @@ body,html {
     color:#BA6262;
 }
 
+#cv a {
+    color:#EBE6E6;
+}
+#cv a:hover {
+    color:#BA6262;
+}
+
 #portfolio {
     width:80%;
     padding:2% 10%;
