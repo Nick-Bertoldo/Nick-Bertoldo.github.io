@@ -132,7 +132,15 @@ body,html {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
-#publication {
+#publications {
+    margin:4vh 0px !important;
+    padding:2vh 0px !important;
+}
+#cv {
+    margin:4vh 0px !important;
+    padding:2vh 0px !important;
+}
+#projects {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
@@ -223,7 +231,7 @@ body,html {
     cursor:pointer;
     color:#444546;
 }
-.project div {
+.publication div {
     font-weight:normal;
 }
 .btn_two {
