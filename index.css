@@ -110,9 +110,9 @@ body,html {
     color:#BA6262;
 }
 
-#cv a {
+/* #cv a {
     color:#EBE6E6;
-}
+} */
 #cv a:hover {
     color:#BA6262;
 }
@@ -144,6 +144,12 @@ body,html {
 #publications {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
+}
+#publications a {
+    color:#EBE6E6;
+}
+#publications a:hover {
+    color:#BA6262;
 }
 #cv {
     margin:4vh 0px !important;
