@@ -13,6 +13,11 @@ body,html {
     background:#444546;
     scroll-behavior: smooth;
 }
+a:link {
+  text-decoration: none;
+}
+
+
 #loading {
     width: 100vw;
     height: 100vh;
