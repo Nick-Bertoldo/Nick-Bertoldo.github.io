@@ -91,10 +91,11 @@ body,html {
     color:#EBE6E6;
     display:flex;
     justify-content:center;
-    flex-direction:column;
+    /* flex-direction:column; */
     transition:1s ease-in-out;
     padding-top:20vh;
-    /* style="display: flex; align-items: center; gap: 2rem;" */
+    align-items: center; 
+    gap: 2rem;
 }
 #tagline {
     font-size:30px;
@@ -246,7 +247,7 @@ body,html {
     color:#444546;
     padding:10px 40px;
     border-radius:50px;
-    border:2px solid #EBE6E6;
+    border:2px solid #BA6262;
     font-size:18px;
     font-family: 'Comfortaa', cursive;
     font-weight:bold;
