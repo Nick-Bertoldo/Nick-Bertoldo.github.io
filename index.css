@@ -328,10 +328,19 @@ a:link {
     } */
 }
 
+@media (max-width: 767px) {
+    .profile-image {
+        display: none;
+    }
+}
+
 @media (max-width: 900px){
     #header {
         width:94%;
         padding:15% 3%;
+    }
+    .profile-image {
+        display: none;
     }
     #title {
         font-size:30px;
