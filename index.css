@@ -15,6 +15,7 @@ body,html {
 }
 a:link {
   text-decoration: none;
+  color: inherit;
 }
 
 
@@ -115,9 +116,9 @@ a:link {
     color:#BA6262;
 }
 
-/* #cv a {
+#cv a {
     color:#EBE6E6;
-} */
+}
 #cv a:hover {
     color:#BA6262;
 }
@@ -146,14 +147,14 @@ a:link {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
-#publication {
+#publications {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
 }
-#publication a {
+#publications a {
     color:#EBE6E6;
 }
-#publication a:hover {
+#publications a:hover {
     color:#BA6262;
 }
 #cv {
