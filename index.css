@@ -72,7 +72,7 @@ a:link {
     -moz-animation: Gradient 20s ease infinite;
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
-    font-family: 'Comfortaa', cursive;
+    font-family: "Playfair Display", serif;
 }
 #links {
     margin:40px 0px;
@@ -139,7 +139,7 @@ a:link {
     padding: 40px 30px;
 }
 #portfolio div h1 {
-    font-size:40px;
+    font-size:30px;
     background-image: linear-gradient(to left, #BA6262 0%, #d03c3c 100%);
     -webkit-background-clip:text;
     background-clip:text;
@@ -149,7 +149,7 @@ a:link {
     -moz-animation: Gradient 20s ease infinite;
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
-    font-family: 'Comfortaa', cursive;
+    font-family: "Playfair Display", serif;
 }
 #research {
     margin:4vh 0px !important;
@@ -249,7 +249,7 @@ a:link {
     border-radius:50px;
     border:2px solid #EBE6E6;
     font-size:18px;
-    font-family: 'Comfortaa', cursive;
+    font-family: "Playfair Display", serif;
     font-weight:bold;
     background:transparent;
     transition:0.4s ease-in-out;
@@ -269,7 +269,7 @@ a:link {
     border-radius:50px;
     border:2px solid #EBE6E6;
     font-size:18px;
-    font-family: 'Comfortaa', cursive;
+    font-family: "Playfair Display", serif;
     font-weight:bold;
     background:#BA6262;
     transition:0.4s ease-in-out;
@@ -414,7 +414,7 @@ a:link {
     -moz-animation: Gradient 20s ease infinite;
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
-    font-family: 'Comfortaa', cursive;
+    font-family: "Playfair Display", serif;
     text-decoration:none;
 }
 button:focus {
