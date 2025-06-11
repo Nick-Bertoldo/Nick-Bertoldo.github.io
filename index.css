@@ -63,7 +63,7 @@ a:link {
 }
 #title {
     font-size:40px;
-    background-image: linear-gradient(to left, #BA6262 0%, #d03c3c 100%);
+    background-image: linear-gradient(to left, #e69393 0%, #f39292 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -140,7 +140,7 @@ a:link {
 }
 #portfolio div h1 {
     font-size:30px;
-    background-image: linear-gradient(to left, #BA6262 0%, #d03c3c 100%);
+    background-image: linear-gradient(to left, #e69393 0%, #f39292 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -405,7 +405,7 @@ a:link {
 }
 #footer a {
     font-size:18px;
-    background-image: linear-gradient(to left, #BA6262 0%, #ba7878 100%);
+    background-image: linear-gradient(to left, #e69393 0%, #f39292 100% 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
