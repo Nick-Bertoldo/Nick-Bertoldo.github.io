@@ -1,4 +1,4 @@
-# My personal website ) 
+# My personal website 
 
 
 this is the repository of my personal website, created starting from:
