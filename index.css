@@ -26,6 +26,11 @@ a:link {
   color: inherit;
 }
 
+p:link {
+  text-decoration: none;
+  color: inherit;
+}
+
 
 #loading {
     width: 100vw;
