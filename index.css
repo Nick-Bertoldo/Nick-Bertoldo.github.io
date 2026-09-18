@@ -32,6 +32,10 @@ a:active {
   text-decoration: underline;
 }
 
+p a {
+    color: inherit !important;
+}
+   
 #loading {
     width: 100vw;
     height: 100vh;
