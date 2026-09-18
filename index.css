@@ -22,18 +22,16 @@ body,html {
     scroll-behavior: smooth;
 }
 
-a {
+a:link,
+a:visited {
   color: inherit;
   text-decoration: none;
 }
 
 a:hover,
 a:active {
+  color: inherit;
   text-decoration: underline;
-}
-
-p a {
-    color: inherit !important;
 }
    
 #loading {
