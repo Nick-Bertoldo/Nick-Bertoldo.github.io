@@ -26,11 +26,17 @@ a:link {
   color: inherit;
 }
 
-p:link {
+a:visited {
   text-decoration: none;
-  color: inherit;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
 
 #loading {
     width: 100vw;
